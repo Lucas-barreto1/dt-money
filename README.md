@@ -17,7 +17,7 @@
 
 # 📷 Demonstração 
 <div align = "center">
-    <img alt = "example" src = "https://i.imgur.com/iVwQQow.gif" width ="400px ">
+    <img alt = "example" src = "https://i.imgur.com/iVwQQow.gif" >
 </div>
 
 # 🚀 Tecnologias 
